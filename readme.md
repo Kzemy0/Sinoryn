@@ -1,12 +1,9 @@
 <div align="center">
   <h1>Hi there 👋</h1>
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE60F7&background=E447FF00&center=true&vCenter=true&random=true&width=435&lines=(Web)+Developer+since+10%2B+years;Beginner+VRChat+Creator;Virtual+Reality+Enjoyer" alt="Typing SVG" />
-</div>
 
 <!--
-**naightee/naightee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sinoryn/Sinoryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
